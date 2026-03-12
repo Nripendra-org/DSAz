@@ -1,1 +1,1 @@
-# DSA Customer comparrision protal
+# DSA Customer comparision protal
